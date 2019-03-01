@@ -2,10 +2,6 @@ body {
 	background-color: #949fb5;
 }
 
-h1 {
-	color: white;
-}
-
-link {
-	color: white;
+h1,p {
+	color: #ffffff;
 }

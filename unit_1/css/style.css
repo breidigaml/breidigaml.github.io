@@ -1,6 +1,16 @@
-body{
+body {
 	background-color: #949fb5;
 }
 
-h1, p{color:#ffffff;
+h1, p, li{
+	color: #ffffff;
+}
+
+h3{
+	color: #002448;
+	background-color: #ffffff;
+}
+
+link{
+	color: #ffffff;
 }

@@ -37,9 +37,7 @@ hr{
 	margin-bottom: 100px;
 }
 
-
-/* Style the button and place it in the middle of the container/image */
-.container .btn {
+.btn {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -54,6 +52,3 @@ hr{
   border-radius: 5px;
 }
 
-.container .btn:hover {
-  background-color: black;
-}

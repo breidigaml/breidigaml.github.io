@@ -7,7 +7,8 @@ header{
 a{}
 
 nav a{
-	color: #000;
+	color: #fff;
+
 }
 
 h1{
@@ -28,4 +29,8 @@ hr{
 	font-size: 16px;
 	text-align: center;
 	color: #000;
+}
+
+div{
+	background: url(https://breidigaml.github.io/unit_3/images/home.JPG);
 }

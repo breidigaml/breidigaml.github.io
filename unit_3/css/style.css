@@ -1,3 +1,29 @@
+div{
+	background: url(https://breidigaml.github.io/unit_3/images/dc.JPG)  alt="Welcome to Dairy Free Girl in DC" " title="Welcome";
+	background-size: cover;
+	margin-bottom: 100px;
+}
+
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	color: #000;
+	font-family: "Times New Roman";
+}
+
+hr{
+	width: 100px
+	color: #000;
+
+}
+
+#slogan{
+	font-family: "Times New Roman";
+	font-size: 16px;
+	text-align: center;
+	color: #000;
+}
+
 header{
 	background: #65acdb;
 	background-size: cover;
@@ -11,44 +37,6 @@ nav a{
 
 }
 
-h1{
-	text-transform: uppercase;
-	text-align: center;
-	color: #fff;
-	font-family: "Times New Roman";
-}
 
-hr{
-	width: 100px
-	color: #fff;
 
-}
-
-#slogan{
-	font-family: "Times New Roman";
-	font-size: 16px;
-	text-align: center;
-	color: #fff;
-}
-
-div{
-	background: url(https://breidigaml.github.io/unit_3/images/dc.JPG)  alt="Welcome to Dairy Free Girl in DC" " title="Welcome";
-	background-size: cover;
-	margin-bottom: 100px;
-}
-
-.btn {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  background-color: #555;
-  color: white;
-  font-size: 16px;
-  padding: 12px 24px;
-  border: none;
-  cursor: pointer;
-  border-radius: 5px;
-}
 

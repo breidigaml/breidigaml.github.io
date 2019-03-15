@@ -1,5 +1,10 @@
 header{
-	background-image: url("home.JPG");
-	background-repeat: no-repeat;
-	background-position: cover;
+	background-color: #050505;
+	padding: 20px;
+}
+
+a{}
+
+nav a{
+	color: #000;
 }

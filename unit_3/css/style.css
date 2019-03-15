@@ -14,13 +14,13 @@ nav a{
 h1{
 	text-transform: uppercase;
 	text-align: center;
-	color: #000000;
+	color: #fff;
 	font-family: "Times New Roman";
 }
 
 hr{
 	width: 100px
-	color: #000;
+	color: #fff;
 
 }
 
@@ -28,9 +28,10 @@ hr{
 	font-family: "Times New Roman";
 	font-size: 16px;
 	text-align: center;
-	color: #000;
+	color: #fff;
 }
 
 div{
 	background: url(https://breidigaml.github.io/unit_3/images/home.JPG);
+	background-size: cover;
 }

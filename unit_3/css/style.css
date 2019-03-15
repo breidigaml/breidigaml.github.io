@@ -18,14 +18,14 @@ body{
 	color: white;
 
 	/* Background styles */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('https://codetheweb.blog/assets/img/posts/full-image-hero/image.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), 
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
-	background: img src  alt="Welcome to Dairy Free Girl in DC" " title="Welcome";
+	background: img src= "images/home.jpg"  alt="Welcome to Dairy Free Girl in DC" " title="Welcome";
 	background-size: cover;
 	margin-bottom: 100px;
 	width: 100%;

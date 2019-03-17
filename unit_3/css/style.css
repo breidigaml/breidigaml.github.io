@@ -4,7 +4,7 @@ body{
 }
 
 div{ 
-	background-image: url('img/abstract.jpg');
+	background-image: url('images/abstract.jpg');
 	background-color: #aec5ea;
 	background-size: cover;
 	width: 100%;
@@ -24,6 +24,8 @@ h1{
 	font-size: 70px;
 	text-align: center;
 	color: #000;
+	margin-top: 0px;
+	padding-top: 40px;
 }
 
 #slogan{

@@ -3,7 +3,8 @@ body{
 	font-family: sans-serif;
 }
 
-.hero{ background: src= "images/home-background.jpg"  alt="Welcome to Dairy Free Girl in DC" " title="Welcome";
+div{ 
+	background-image: url(images/home-background.jpg);
 	background-size: cover;
 	margin-bottom: 100px;
 	width: 100%;

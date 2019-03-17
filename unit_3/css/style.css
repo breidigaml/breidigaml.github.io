@@ -4,7 +4,7 @@ body{
 }
 
 div{ 
-	background-image: url(https://www.pexels.com/photo/defocused-image-of-illuminated-christmas-lights-255377/);
+	background-image: url('img/abstract.jpg');
 	background-size: cover;
 	margin-bottom: 100px;
 	width: 100%;

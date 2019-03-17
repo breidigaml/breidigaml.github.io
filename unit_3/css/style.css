@@ -48,10 +48,12 @@ a{
 nav a{
 	color: #fff;
 	text-align center;
+	font-family: Ariel;
 	margin: 5px;
 	padding-top: 50px;
 	padding-right: 50px;
 	padding-left: 50px;
+	text-decoration: none;
 
 }
 

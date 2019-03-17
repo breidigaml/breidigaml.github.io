@@ -8,7 +8,7 @@ div{
 	background-size: cover;
 	margin-bottom: 100px;
 	width: 100%;
-  	height: 500px;
+  	height: 800px;
 }
 
 
@@ -40,10 +40,12 @@ header{
 	height: 50px;
 }
 
-a{}
+a{
+	text-align: center;
+}
 
 nav a{
-	color: #fff
+	color: #fff;
 	text-align center;
 	margin: 20px;
 

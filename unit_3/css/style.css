@@ -91,3 +91,13 @@ nav a{
 	width: 450px;
 	height: 450px;
 }
+
+ul, ol{
+	padding-left: 20px;
+}
+
+footer{
+	background-color: #cccccc;
+	padding: 20px;
+	text-align: center;
+}

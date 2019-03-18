@@ -1,3 +1,8 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
 body{
 	margin: 0;
 	font-family: sans-serif;
@@ -46,6 +51,8 @@ header{
 
 a{
 	text-align: center;
+	color: #aec5ea;
+	text-decoration: none;
 }
 
 nav a{

@@ -81,3 +81,8 @@ nav a{
 #travel{
 	background-image: url(src="images/travel.jpg");
 }
+
+#pesto{
+	width: 450px;
+	height: 450px;
+}

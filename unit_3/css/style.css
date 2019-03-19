@@ -9,7 +9,7 @@ body{
 }
 
 div{ 
-	background-image: background-image: linear-gradient(rgba(0, 0, 0, 0.35),#0000002e), url(https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.35),#0000002e), url(https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg);
 	background-color: #aec5ea;
 	background-size: cover;
 	background-position: bottom-left

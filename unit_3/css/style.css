@@ -68,23 +68,23 @@ nav a{
 
 }
 #featured{
-	background-image: url(../images/antique.jpg);
+	background-image: url("../images/antique.jpg");
 
 }
 
 #recipes{
-	background-image: url(../images/recipes.jpg);
+	background-image: url("../images/recipes.jpg");
 
 }
 
 #reviews{
-	background-image: url(../images/blog.jpg);
+	background-image: url("../images/blog.jpg");
 
 }
 
 
 #travel{
-	background-image: url(../images/travel.jpg);
+	background-image: url("../images/travel.jpg");
 }
 
 #pesto{

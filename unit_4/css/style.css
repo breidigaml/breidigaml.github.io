@@ -62,7 +62,8 @@ a{
 nav a{
 	color: #fff;
 	text-align center;
-	font-family: Ariel;
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
 	margin: 5px;
 	padding-top: 50px;
 	padding-right: 50px;
@@ -106,6 +107,8 @@ footer{
 }
 
 h3, h4, h5{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
 	margin: 20px, 0;
 	margin-bottom: 10px;
 }
@@ -115,7 +118,7 @@ aside{
 }
 
 .blogs{
-	font-family: "Times New Roman";
+	font-family: 'Open Sans', sans-serif;
 	font-size: 40px;
 	text-align: justify;
 	color: #000;

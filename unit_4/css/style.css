@@ -78,8 +78,11 @@ header{
 
 a{
 	text-align: center;
-	color: #aec5ea;
+	color: #578fb2;
 	text-decoration: none;
+	border-bottom: 1px;
+	border-style: solid;
+	padding: 2px;
 }
 
 nav a{
@@ -134,17 +137,6 @@ ul, ol{
 	margin-bottom: 30px;
 }
 
-footer{
-	background-color: #f2f2f2;
-	padding-top: 20px;
-	text-align: center;
-	font-family: 'Playfair Display', serif;
-	font-weight: 400px;
-	margin-top: 30px;
-
-}
-
-
 aside{
 	float: right;
 }
@@ -155,4 +147,14 @@ aside{
 	text-align: justify;
 	color: #000;
 	width: 30em;
+}
+
+footer{
+	background-color: #f2f2f2;
+	padding-top: 20px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
+	margin-top: 30px;
+
 }

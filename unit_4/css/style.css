@@ -12,6 +12,7 @@ body{
 p{
 	font-family: 'Open Sans', serif;
 	margin: 10px;
+
 }
 
 div{ 
@@ -127,6 +128,7 @@ nav a{
 
 ul, ol{
 	padding-left: 20px;
+	margin-left: 20px;
 }
 
 footer{

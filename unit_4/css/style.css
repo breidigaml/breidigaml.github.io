@@ -92,26 +92,37 @@ nav a{
 }
 #featured{
 	background-image: url("../images/antique.jpg");
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
+
+}
+
 
 }
 
 #recipes{
 	background-image: url("../images/recipes.jpg");
-
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
 }
 
 #reviews{
 	background-image: url("../images/blog.jpg");
-
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
 }
 
 
 #travel{
 	background-image: url("../images/travel.jpg");
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
 }
 
 #pesto{
 	width: 450px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
 }
 
 ul, ol{
@@ -122,6 +133,8 @@ footer{
 	background-color: #f2f2f2;
 	padding: 20px;
 	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400px;
 }
 
 

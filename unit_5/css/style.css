@@ -96,6 +96,11 @@ nav a{
 
 }
 
+#wrapper div{
+	float: left;
+	width: 25%;
+}
+
 #featured{
 	background-image: url("../images/antique.jpg");
 	font-family: 'Playfair Display', serif;
@@ -191,5 +196,12 @@ div / section {
     padding: 20px;
 }
 
-
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
 

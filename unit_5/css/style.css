@@ -101,10 +101,23 @@ nav a{
 	width: 25%;
 }
 
+#welcome div{
+	float:left;
+	width: 65%;
+}
+
 #featured{
 	background-image: url("../images/antique.jpg");
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
+	font-size: 1.3em;
+	color: #fff;
+	height: 500px;
+	float: left;
+	width: 50%;
+	height: 20em;
+	text-align: center;
+	line-height: 6em;
 
 }
 
@@ -112,12 +125,25 @@ nav a{
 	background-image: url("../images/recipes.jpg");
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
+	font-size: 1.3em;
+	color: #fff;
+	float: left;
+	width: 50%;
+	height: 20em;
+	text-align: center;
+	line-height: 6em;
 }
 
 #reviews{
 	background-image: url("../images/blog.jpg");
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
+	font-size: 1.3em;
+	float: left;
+	width: 50%;
+	height: 20em;
+	text-align: center;
+	line-height: 6em;
 }
 
 
@@ -125,6 +151,13 @@ nav a{
 	background-image: url("../images/travel.jpg");
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
+	font-size: 1.3em;
+	color: #fff;
+	float: left;
+	width: 50%;
+	height: 20em;
+	text-align: center;
+	line-height: 6em;
 }
 
 #pesto{
@@ -161,19 +194,15 @@ footer{
 /*delete the below after Unit 6*/
 
 header {
-    background-color: #FFED74;
-    border: 1px black solid;
     padding: 20px;
 }
 
 nav {
-    background-color: #E8C66A;
-    border: 1px black solid;
     padding: 20px;
 }
 
 aside {
-    background-color: #FFC675;
+    background-color: #f2f2f2;
     border: 1px black solid;
     padding: 20px;
 }
@@ -185,7 +214,6 @@ article {
 }
 
 footer {
-    background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
 }

@@ -17,6 +17,13 @@ p{
 
 }
 
+#block{
+	background-color: #f2f2f2;
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
 #header{ 
 	background-image: linear-gradient(rgba(0, 0, 0, 0.35),#0000002e), url(https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg);
 	background-color: #aec5ea;

@@ -94,7 +94,14 @@ nav a{
 	margin: 30px;
 	padding: 50px, 10px;
 	text-decoration: none;
+	display: block;
+	float: left;
 
+
+}
+
+nav a: hover{
+	background-color: #020202;
 }
 
 #wrapper div{

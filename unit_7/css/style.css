@@ -259,6 +259,7 @@ article {
 
 article + article {
 	border-top: 1px solid #ccc;
+	border-width: 3px;
 }
 
 

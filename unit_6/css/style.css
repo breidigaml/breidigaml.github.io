@@ -124,6 +124,7 @@ nav a{
 
 #featured{
 	background-image: url("../images/blog.jpg");
+	background-repeat: no-repeat;
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
 	font-size: 1.3em;
@@ -139,6 +140,7 @@ nav a{
 
 #recipes{
 	background-image: url("../images/recipes.jpg");
+	background-repeat: no-repeat;
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
 	font-size: 1.3em;
@@ -151,6 +153,7 @@ nav a{
 
 #reviews{
 	background-image: url("../images/antique.jpg");
+	background-repeat: no-repeat;
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
 	font-size: 1.3em;
@@ -164,6 +167,7 @@ nav a{
 
 #travel{
 	background-image: url("../images/travel.jpg");
+	background-repeat: no-repeat;
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
 	font-size: 1.3em;

@@ -17,14 +17,6 @@ p{
 
 }
 
-#block{
-	background-color: #dededec2;
-	color: #000000;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
-	line-height: 18px;
-	line-break: normal;
-}
 
 #header{ 
 	background-image: linear-gradient(rgba(0, 0, 0, 0.35),#0000002e), url(https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg);
@@ -129,6 +121,18 @@ nav a{
 	margin-right: 10px;
 	float: right;
 	width: 30%;
+}
+
+
+#block{
+	background-color: #dededec2;
+	color: #000000;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	line-break: normal;
+	max-width: 100%;
+	
 }
 
 #featured{

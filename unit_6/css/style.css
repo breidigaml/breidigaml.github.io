@@ -19,9 +19,10 @@ p{
 
 #block{
 	background-color: #f2f2f2;
-	color: #ffffff;
+	color: #000000;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
+	line-height: 1px;
 }
 
 #header{ 

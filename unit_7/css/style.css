@@ -285,6 +285,23 @@ div / section {
 
 }
 
+@media only screen and (max-width: 900px){
+	body{
+		font-size: 18px;
+	}
+	main{
+		width: 55%;
+		}
+}
+
+@media only screen and (max-width: 750px){
+
+}
+
+@media only screen and (max-width: 660px){
+
+}
+
 .clearfix:after {
   visibility: hidden;
   display: block;

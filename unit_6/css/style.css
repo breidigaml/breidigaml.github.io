@@ -51,13 +51,14 @@ h1{
 h2{
 	font-family: 'Playfair Display', serif;
 	font-weight: 700px;
-	font-size: 50px;
+	font-size: 3em;
 
 }
 
 h3, h4, h5{
 	font-family: 'Playfair Display', serif;
 	font-weight: 400px;
+	font-size: 2.5em;
 	margin: 20px, 0;
 	margin-bottom: 10px;
 }
@@ -132,7 +133,7 @@ nav a{
 	line-height: 18px;
 	line-break: normal;
 	max-width: 100%;
-	
+
 }
 
 #featured{

@@ -358,7 +358,7 @@ div / section {
 		width: auto;
 		float: none;
 	}
-	aside{
+	aside #right{
 		display: none;
 	}
 	}

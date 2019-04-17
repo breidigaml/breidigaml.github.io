@@ -358,9 +358,14 @@ div / section {
 		width: auto;
 		float: none;
 	}
+	#left{
+		width: auto;
+		float: none;
+	}
 	#right{
 		display: none;
 	}
+
 	}
 
 	/*#welcome section{

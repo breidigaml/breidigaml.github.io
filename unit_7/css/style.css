@@ -314,6 +314,11 @@ div / section {
 
 	}
 
+	#welcome{
+		padding: 20px;
+		margin-bottom: 10px;
+	}
+
 	#all{
 	width: 1840px;
 

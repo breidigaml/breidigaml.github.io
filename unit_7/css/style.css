@@ -354,7 +354,7 @@ div / section {
 }
 
 @media only screen and (max-width: 750px){
-	main, aside{
+	main{
 		width: auto;
 		float: none;
 	}

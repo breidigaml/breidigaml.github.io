@@ -358,7 +358,9 @@ div / section {
 		width: auto;
 		float: none;
 	}
-	
+	aside{
+		display: none;
+	}
 	}
 
 	/*#welcome section{

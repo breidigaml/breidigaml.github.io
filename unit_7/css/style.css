@@ -354,7 +354,14 @@ div / section {
 }
 
 @media only screen and (max-width: 750px){
-	#welcome section{
+	main, aside{
+		width: auto;
+		float: none;
+	}
+	
+	}
+
+	/*#welcome section{
 		display: none;
 	}
 
@@ -365,10 +372,10 @@ div / section {
 		background-position: bottom left;
 		width: 100%;
   		height: 800px;
-  		/*padding-right: 50px;*/
+  		padding-right: 50px;
   		padding-left: 50px;
   		margin: 0px;
-}
+}*/
 
 @media only screen and (max-width: 660px){
 

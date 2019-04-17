@@ -328,7 +328,7 @@ div / section {
 		width: 62%;
 	}
 
-	#welcome{
+	#welcome div{
 		padding: 20px;
 		margin-bottom: 20px;
 	}
@@ -354,7 +354,7 @@ div / section {
 }
 
 @media only screen and (max-width: 750px){
-	#welcome{
+	#welcome div{
 		display: none;
 	}
 }

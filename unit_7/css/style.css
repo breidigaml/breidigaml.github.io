@@ -294,6 +294,11 @@ div / section {
 	width: 30%;
 }
 
+#left{
+	padding: 20px;
+	float: left;
+	width: 62%;
+}
 
 @media only screen and (min-width: 1840px){
 	body{

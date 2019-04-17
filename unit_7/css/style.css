@@ -314,7 +314,7 @@ div / section {
 
 
 
-	/*#right{
+	#right{
 		background-color: #f2f2f2;
 		border: 1px black solid;
 		padding: 20px
@@ -323,7 +323,7 @@ div / section {
 		float: right;
 		width: 30%;
 	}
-*/
+
 	#left{
 		padding: 20px;
 		float: left;

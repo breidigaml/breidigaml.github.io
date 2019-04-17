@@ -307,10 +307,12 @@ div / section {
 	}
 
 	#wrapper div{
-		float: left;
+		/*float: left;*/
 		width: 25%;
 		/*margin-top: 50px;*/
 	}
+
+
 
 	/*#right{
 		background-color: #f2f2f2;

@@ -240,8 +240,6 @@ footer{
 
 }
 
-/*delete the below after Unit 6*/
-
 header {
     padding: 20px;
 }
@@ -279,12 +277,12 @@ div / section {
 
 
 @media only screen and (max-width: 1870px){
-#welcome{
+	#welcome{
 	padding: 20px;
 	margin-bottom: 10px;
 	}
 
-#right{
+	#right{
 	background-color: #f2f2f2;
 	border: 1px black solid;
 	padding: 20px
@@ -292,12 +290,14 @@ div / section {
 	margin-right: 20px;
 	float: right;
 	width: 30%;
-}
+	}
 
-#left{
+	#left{
 	padding: 20px;
 	float: left;
 	width: 62%;
+	}
+
 }
 
 @media only screen and (min-width: 1840px){
@@ -311,8 +311,6 @@ div / section {
 		width: 25%;
 		/*margin-top: 50px;*/
 	}
-
-
 
 	#right{
 		background-color: #f2f2f2;

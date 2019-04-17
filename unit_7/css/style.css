@@ -70,7 +70,7 @@ header{
 	height: 50px;
 	margin-top: 0px;
 	margin-bottom: 20px;
-	margin-right: 30px;
+	/*margin-right: 30px;*/
 	padding-top: 20px;
 	padding-right: 50px;
 	padding-left: 50px;
@@ -146,7 +146,7 @@ nav a:hover{
 	background-size: cover;
 	background-repeat: no-repeat;
 	font-family: 'Playfair Display', serif;
-	font-weight: 400px;
+	font-weight: 400;
 	font-size: 1.3em;
 	color: #fff;
 	height: 500px;
@@ -161,8 +161,9 @@ nav a:hover{
 #recipes{
 	background-image: url("../images/recipes.jpg");
 	background-repeat: no-repeat;
+	background-size: cover;
 	font-family: 'Playfair Display', serif;
-	font-weight: 400px;
+	font-weight: 400;
 	font-size: 1.3em;
 	color: #fff;
 	float: left;
@@ -175,8 +176,9 @@ nav a:hover{
 #reviews{
 	background-image: url("../images/antique.jpg");
 	background-repeat: no-repeat;
+	background-size: cover;
 	font-family: 'Playfair Display', serif;
-	font-weight: 400px;
+	font-weight: 400;
 	font-size: 1.3em;
 	color: #fff;
 	float: left;
@@ -190,8 +192,9 @@ nav a:hover{
 #travel{
 	background-image: url("../images/travel.jpg");
 	background-repeat: no-repeat;
+	background-size: cover;
 	font-family: 'Playfair Display', serif;
-	font-weight: 400px;
+	font-weight: 400;
 	font-size: 1.3em;
 	color: #fff;
 	float: left;
@@ -204,7 +207,7 @@ nav a:hover{
 #pesto{
 	width: 30em;
 	font-family: 'Playfair Display', serif;
-	font-weight: 400px;
+	font-weight: 400;
 }
 
 ul, ol{

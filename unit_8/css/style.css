@@ -3,6 +3,7 @@
 *{
 	margin: 0px;
 	padding: 0px;
+	box-sizing: border-box;
 }
 
 body{
@@ -340,7 +341,16 @@ div / section {
 
 }
 
-@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 1350px){
+	#left{
+		float: none;
+
+	}
+
+	#welcome div{
+		float:left;
+		padding: 20px;
+	}
 
 }
 

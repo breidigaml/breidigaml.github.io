@@ -361,10 +361,6 @@ footer {
 		font-size: 1.5em;
 	}
 
-	.blogi{
-
-	}
-
 	}
 
 	/*#welcome section{
@@ -396,6 +392,10 @@ nav a{
 #header{ 
   	height: 25%;
 
+}
+
+.blogi {
+ display: none;
 }
 
 @media only screen and (max-width: px){

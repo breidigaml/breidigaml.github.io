@@ -335,30 +335,6 @@ footer {
 
 @media only screen and (max-width: 850px){
 	
-	#header{ 
-  		height: 200px;
-	}
-
-	h1{
-		font-size: 1.5em;
-	}
-
-	#slogan{
-		font-size: 1em;
-	}	
-
-	h2{
-		font-size: 1em;
-
-	}
-
-	h3{
-		font-size: 1.5em;
-	}
-
-	h4, h5{
-		font-size: .5em;
-	}
 
 
 	#left{
@@ -406,23 +382,48 @@ footer {
 }*/
 
 @media only screen and (max-width: 730px){
+	
+	#header{ 
+  		height: 200px;
+	}
 
-nav a{
- margin: 1px;
-}
+	h1{
+		font-size: 1.5em;
+	}
 
-.columns{
-	font-size: 4em;
-}
+	#slogan{
+		font-size: 1em;
+	}	
 
-#header{ 
-  	height: 25%;
+	h2{
+		font-size: 1em;
 
-}
+	}
 
-.blogi {
- display: none;
-}
+	h3{
+		font-size: 1.5em;
+	}
+
+	h4, h5{
+		font-size: .5em;
+	}
+	
+	nav a{
+ 		margin: 1px;
+	}
+
+	.columns{
+		font-size: 4em;
+	}
+
+	#header{ 
+  		height: 25%;
+
+		}
+
+	.blogi {
+		 display: none;
+	}
 
 @media only screen and (max-width: px){
 

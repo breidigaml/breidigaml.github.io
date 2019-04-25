@@ -324,6 +324,12 @@ footer {
 
 	nav a{
 		margin: 10px;
+	}
+
+
+	#header{ 
+  	height: 400px;
+ 
 	}	
 }
 
@@ -350,10 +356,6 @@ footer {
 		margin: 2px;
 	}
 
-	#header{ 
-  	height: 400px;
- 
-	}
 
 	.blogs{
 		font-size: 1.5em;
@@ -383,12 +385,23 @@ footer {
 
 @media only screen and (max-width: 730px){
 
+nav a{
+ margin: 1px;
+}
 
 .columns{
 
 }
 
 }
+
+@media only screen and (max-width: 730px){
+
+nav a {
+	
+}
+
+	}
 
 .clearfix:after {
   visibility: hidden;

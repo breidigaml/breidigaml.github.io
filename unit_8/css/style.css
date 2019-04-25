@@ -384,19 +384,20 @@ footer {
 @media only screen and (max-width: 730px){
 	
 	#header{ 
-  		height: 200px;
+  		height: 250px;
+  		padding-bottom: 5%;
 	}
 
 	h1{
-		font-size: 1.5em;
+		font-size: 1.8em;
 	}
 
 	#slogan{
-		font-size: 1em;
+		font-size: 1.5em;
 	}	
 
 	h2{
-		font-size: 1em;
+		font-size: 1.5em;
 
 	}
 
@@ -405,7 +406,7 @@ footer {
 	}
 
 	h4, h5{
-		font-size: .5em;
+		font-size: 1em;
 	}
 	
 	nav a{
@@ -417,15 +418,16 @@ footer {
 	}
 
 	#header{ 
-  		height: 25%;
+  		height: 5%;
 
 		}
 
-	.blogi {
+	/*.blogi {
 		 display: none;
-	}
+	}*/
+}
 
-@media only screen and (max-width: px){
+@media only screen and (max-width: 700px){
 
 nav a {
 	display: block;

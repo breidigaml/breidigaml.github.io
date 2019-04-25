@@ -328,13 +328,39 @@ footer {
 
 
 	#header{ 
-  	height: 400px;
+  		height: 400px;
  
 	}	
 }
 
 @media only screen and (max-width: 850px){
 	
+	#header{ 
+  		height: 200px;
+	}
+
+	h1{
+		font-size: 1.5em;
+	}
+
+	#slogan{
+		font-size: 1em;
+	}	
+
+	h2{
+		font-size: 1em;
+
+	}
+
+	h3{
+		font-size: 1.5em;
+	}
+
+	h4, h5{
+		font-size: .5em;
+	}
+
+
 	#left{
 		width: auto;
 		float: none;

@@ -19,7 +19,7 @@ p{
 }
 
 
-#header{ 
+#header{
 	background-image: linear-gradient(rgba(0, 0, 0, 0.35),#0000002e), url(https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg);
 	background-color: #aec5ea;
 	background-size: cover;
@@ -159,7 +159,7 @@ nav a:hover{
 	font-weight: 400;
 	font-size: 1.3em;
 	color: #fff;
-	
+
 }
 
 #reviews{
@@ -327,14 +327,14 @@ footer {
 	}
 
 
-	#header{ 
+	#header{
   		height: 400px;
- 
-	}	
+
+	}
 }
 
 @media only screen and (max-width: 850px){
-	
+
 
 
 	#left{
@@ -342,7 +342,7 @@ footer {
 		float: none;
 		font-size: 1em;
 	}
-	
+
 	#right{
 		display: none;
 	}
@@ -369,7 +369,7 @@ footer {
 		display: none;
 	}
 
-	#header{ 
+	#header{
 		background-image: linear-gradient(rgba(0, 0, 0, 0.35),#0000002e), url(https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg);
 		background-color: #aec5ea;
 		background-size: cover;
@@ -382,8 +382,8 @@ footer {
 }*/
 
 @media only screen and (max-width: 730px){
-	
-	#header{ 
+
+	#header{
   		height: 250px;
   		padding-bottom: 5%;
 	}
@@ -394,7 +394,7 @@ footer {
 
 	#slogan{
 		font-size: 1.5em;
-	}	
+	}
 
 	h2{
 		font-size: 1.5em;
@@ -408,7 +408,7 @@ footer {
 	h4, h5{
 		font-size: 1em;
 	}
-	
+
 	nav a{
  		margin: 1px;
 	}
@@ -417,7 +417,7 @@ footer {
 		font-size: 4em;
 	}
 
-	#header{ 
+	#header{
   		height: 5%;
 
 		}
@@ -446,4 +446,3 @@ nav a {
   clear: both;
   height: 0;
 }
-

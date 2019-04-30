@@ -254,6 +254,14 @@ footer {
 
 }*/
 
+img{
+	width: 100%;
+}
+
+input {
+display: none;
+}
+
 .columns {
 	width: 25%;
 	float: left;
@@ -360,6 +368,9 @@ footer {
 	.blogs{
 		font-size: 1.5em;
 	}
+	input:checked ~ nav  {
+	display: block;
+	}
 
 	}
 
@@ -447,11 +458,12 @@ footer {
 	}
 
 	input:checked ~ nav  {
-	max-height: 600px;
+	height: 600px;
 	}
 
 	nav {
-max-height: 0;
+display: none;
+height: 0;
 overflow: hidden;
 }
 	/*.blogi {

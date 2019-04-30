@@ -470,13 +470,19 @@ overflow: hidden;
 
 nav a{
 	font-size: 1em;
-	border: none;
+	border: 1px solid white;
+	margin: 2.5%;
 	/*margin: 20px;
 	padding: 10px 10px;
 	text-decoration: none;
 	border: 2px solid white;
 	*/
 }
+
+nav a:hover{
+	background-color: #020202;
+}
+
 	/*.blogi {
 		 display: none;
 	}*/

@@ -480,7 +480,7 @@ nav a{
 	*/
 }
 
-nav a:hover{
+input: checked ~ nav a:active{
 	color: #020202;
 }
 

@@ -463,6 +463,8 @@ display: none;
 	}
 
 	nav {
+position: relative;
+z-index: 99;
 display: none;
 height: 0;
 overflow: hidden;
@@ -480,7 +482,7 @@ nav a{
 	*/
 }
 
-input: checked ~ nav a:active{
+input:checked ~ nav a:active{
 	color: #020202;
 }
 
